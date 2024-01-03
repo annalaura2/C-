@@ -3,7 +3,7 @@ using ExemploFundamentos;
 //SWITCH CASE 
 
 Console.WriteLine("Informe uma letra"); 
-string letra = Console.ReadLine();
+string letra = Console.ReadLine(); // leitura de dados 
 
 switch(letra){
     case "a":
